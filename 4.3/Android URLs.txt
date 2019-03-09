@@ -1,0 +1,12 @@
+JDK:
+http://www.oracle.com/technetwork/java/javase/downloads/index.html
+
+Android Studio and SDK:
+https://developer.android.com/studio/index.html
+
+Android SDK Build Error:
+https://issuetracker.unity3d.com/issues/android-build-fails-when-the-latest-android-sdk-tools-25-dot-3-1-version-is-used
+
+
+Android SDK Tools if you get the Error:
+http://dl-ssl.google.com/android/repository/tools_r25.2.5-windows.zip
